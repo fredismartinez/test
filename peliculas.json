@@ -450,9 +450,18 @@
 "server":"0"
 }
 ],
-"Series":[{"name":"Dragon Ball Z",
+"Series":[{"name":"Dragon Ball Super",
 "url":"http://m.ok.ru/video/29935602292",
 "imagen":"http://2.bp.blogspot.com/-KeM6N5I_4RE/U9KzrVIXBOI/AAAAAAAAAt8/VDOTVnv10oQ/s1600/Dragon_Ball_Z_Pelicula_2015_Poster_MxPosters.jpg",
 "server":"0"
-}]
+},{"name":"Pepa Pig",
+"url":"http://m.ok.ru/video/29935602292",
+"imagen":"http://2.bp.blogspot.com/-KeM6N5I_4RE/U9KzrVIXBOI/AAAAAAAAAt8/VDOTVnv10oQ/s1600/Dragon_Ball_Z_Pelicula_2015_Poster_MxPosters.jpg",
+"server":"0"
+},{"name":"Princesita Sofia",
+"url":"http://m.ok.ru/video/29935602292",
+"imagen":"http://2.bp.blogspot.com/-KeM6N5I_4RE/U9KzrVIXBOI/AAAAAAAAAt8/VDOTVnv10oQ/s1600/Dragon_Ball_Z_Pelicula_2015_Poster_MxPosters.jpg",
+"server":"0"
+}
+]
 }
