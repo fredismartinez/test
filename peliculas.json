@@ -442,6 +442,10 @@
 "url":"https://raw.githubusercontent.com/fredismartinez/test/master/vikingos.json",
 "imagen":"http://image.tmdb.org/t/p/w396/mBDlsOhNOV1MkNii81aT14EYQ4S.jpg",
 "server":"3"
+},{"name":"Pequeñas Mentirosas",
+"url":"https://raw.githubusercontent.com/fredismartinez/test/master/pequementi.json",
+"imagen":"http://image.tmdb.org/t/p/w396/2rOLNdUPahiAq6VuoA1I6sA45cs.jpg",
+"server":"3"
 },{"name":"Pepa Pig",
 "url":"https://raw.githubusercontent.com/fredismartinez/test/master/pepapig.json",
 "imagen":"http://s.sidereel.com/tv_shows/41155/huge/79222-1.jpg",
