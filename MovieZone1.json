@@ -798,6 +798,10 @@
 "url":"https://raw.githubusercontent.com/fredismartinez/test/master/DBZS.json",
 "imagen":"http://image.tmdb.org/t/p/w396/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg",
 "server":"serie"
+},{"name":"SmallVille",
+"url":"https://raw.githubusercontent.com/fredismartinez/test/master/SMVT1",
+"imagen":"http://image.tmdb.org/t/p/w396/4FT5amYt3OHMK6pCIg3VkYU9m8t.jpg",
+"server":"serie"
 },{"name":"Last Man on Earth",
 "url":"https://raw.githubusercontent.com/fredismartinez/test/master/lastman.json",
 "imagen":"http://image.tmdb.org/t/p/w396/4FT5amYt3OHMK6pCIg3VkYU9m8t.jpg",
