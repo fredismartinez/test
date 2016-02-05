@@ -1332,6 +1332,11 @@
 "imagen":"http://1.bp.blogspot.com/_C0tfWqy37pU/SM-9NYE6AwI/AAAAAAAAC9U/bMtfGi5EdmQ/s400/smallville72d.jpg",
 "server":"serie",
 "videoview":"vitamio"
+},{"name":"SmallVille 8",
+"url":"https://raw.githubusercontent.com/fredismartinez/test/master/SMT8.json",
+"imagen":"http://vignette3.wikia.nocookie.net/smallville/images/2/25/Smallvilleseason8dvd-1-.jpg/revision/latest?cb=20120204042748&path-prefix=es",
+"server":"serie",
+"videoview":"vitamio"
 },{"name":"Last Man on Earth",
 "url":"https://raw.githubusercontent.com/fredismartinez/test/master/lastman.json",
 "imagen":"http://image.tmdb.org/t/p/w396/4FT5amYt3OHMK6pCIg3VkYU9m8t.jpg",
