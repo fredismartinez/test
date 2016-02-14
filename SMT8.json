@@ -66,16 +66,26 @@
 "imagen":"http://http-s.ws/ysk/img/data/882ec6714bc4d99f0b901bb32b4a7655-size-145x205-a.jpg",
 "server":"Allmyvideos",
 "videoview":"vitamio"
-},{"name":"Smallville 8x14",
+},{"name":"Smallville 8x14 no",
 "url":"http://allmyvideos.net/embed-nnpo7hnbnp4p.html",
 "imagen":"http://http-s.ws/ysk/img/data/882ec6714bc4d99f0b901bb32b4a7655-size-145x205-a.jpg",
 "server":"Allmyvideos",
 "videoview":"vitamio"
-},{"name":"Smallville 8x14",
+},{"name":"Smallville 8x14 no",
 "url":"http://allmyvideos.net/embed-q3laasky857d.html",
 "imagen":"http://http-s.ws/ysk/img/data/882ec6714bc4d99f0b901bb32b4a7655-size-145x205-a.jpg",
 "server":"Allmyvideos",
 "videoview":"vitamio"
+},{"name":"Smallville 8x14",
+"url":"http://gamovideo.com/qnpqo1x5c2yz",
+"imagen":"http://http-s.ws/ysk/img/data/882ec6714bc4d99f0b901bb32b4a7655-size-145x205-a.jpg",
+"server":"GamoVideo",
+"videoview":"native"
+},{"name":"Smallville 8x15",
+"url":"http://gamovideo.com/5yyj79ycewvg",
+"imagen":"http://http-s.ws/ysk/img/data/882ec6714bc4d99f0b901bb32b4a7655-size-145x205-a.jpg",
+"server":"GamoVideo",
+"videoview":"native"
 }
 ]
 }
