@@ -1342,6 +1342,11 @@
 "imagen":"http://peliculas-y-series.programasfull.com/wp-content/uploads/Smallville-Season-9-DVD.jpg",
 "server":"serie",
 "videoview":"vitamio"
+},{"name":"SmallVille 10",
+"url":"https://raw.githubusercontent.com/fredismartinez/test/master/SMT10.json",
+"imagen":"http://peliculas-y-series.programasfull.com/wp-content/uploads/Smallville-Season-9-DVD.jpg",
+"server":"serie",
+"videoview":"vitamio"
 },{"name":"Last Man on Earth",
 "url":"https://raw.githubusercontent.com/fredismartinez/test/master/lastman.json",
 "imagen":"http://image.tmdb.org/t/p/w396/4FT5amYt3OHMK6pCIg3VkYU9m8t.jpg",
