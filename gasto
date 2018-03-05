@@ -1,0 +1,61 @@
+{
+    "estado":1,
+   "gastos":[
+      {
+          "idGasto":"30",
+         "monto":"12",
+         "etiqueta":"Transporte",
+         "fecha":"2015-07-01",
+         "descripcion":"Viaje al centro"
+      },
+      {
+          "idGasto":"31",
+         "monto":"200",
+         "etiqueta":"Comida",
+         "fecha":"2015-06-15",
+         "descripcion":"Mercado mensual"
+      },
+      {
+          "idGasto":"32",
+         "monto":"100",
+         "etiqueta":"Diversion",
+         "fecha":"2015-07-02",
+         "descripcion":"Salida a cine"
+      },
+      {
+          "idGasto":"33",
+         "monto":"25",
+         "etiqueta":"Transporte",
+         "fecha":"2015-07-04",
+         "descripcion":"Compra de gasolina"
+      },
+      {
+          "idGasto":"34",
+         "monto":"5",
+         "etiqueta":"Comida",
+         "fecha":"2015-07-06",
+         "descripcion":"Almuerzo de negocios"
+      },
+      {
+          "idGasto":"35",
+         "monto":"100",
+         "etiqueta":"Diversi\u00f3n",
+         "fecha":"2015-07-23",
+         "descripcion":"Salida a cine"
+      },
+      {
+          "idGasto":"37",
+         "monto":"288",
+         "etiqueta":"Comida",
+         "fecha":"2015-07-15",
+         "descripcion":"Mercado mensual "
+      },
+      {
+          "idGasto":"38",
+         "monto":"2000",
+         "etiqueta":"Diversi\u00f3n",
+         "fecha":"2015-07-20",
+         "descripcion":"Salida a san andres"
+      }
+   ]
+}
